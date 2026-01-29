@@ -1,8 +1,22 @@
-# Hey man, I'm Bibek 👋
+# Hey Man, I'm Bibek 👋
 
 <div align="center">
   
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there,%20I'm%20[Bibek%20Biswokarma]%20👋&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff"/>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Software+Developer+%F0%9F%92%BB;Cybersecurity+Enthusiast+%F0%9F%94%90;Penetration+Testing+Learner+%F0%9F%94%A8;Building+Secure+%26+Scalable+Solutions)](https://git.io/typing-svg)
+
+<br/>
+
+### ⚡ *"Develop software so secure, even the bugs need authentication."*
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bibek-bishwokarma-8b0577353/?originalSubdomain=np)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Bibek10)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.bibekbk.com.np)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
 </div>
 
@@ -74,18 +88,8 @@ I'm a passionate **Software Developer** with a strong interest in **Cybersecurit
 
 ---
 
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bibek-bishwokarma-8b0577353/?originalSubdomain=np)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Bibek10)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.bibekbk.com.np)
-
----
-
 <div align="center">
   
-### ⚡ *""Develop software so secure, even the bugs need authentication.""*
-
 ![Profile Views](https://komarev.com/ghpvc/?username=bibek-b&color=blueviolet&style=for-the-badge)
 
 </div>
