@@ -72,13 +72,26 @@ I'm a passionate **Software Developer** with a strong interest in **Cybersecurit
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bibek-b&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7000FF&text_color=c9d1d9&ring_color=00D9FF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bibek-b&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=7000FF&currStreakLabel=00D9FF" />
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bibek-b&show_icons=true&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&count_private=true&include_all_commits=true" />
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibek-b&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9&langs_count=8" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibek-b&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=bibek-b&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=7000FF&point=00D9FF" />
+</div>
 
-<img src="https://github-profile-trophy.vercel.app/?username=bibek-b&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
+<div align="center">
+  
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=bibek-b&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=7000FF&currStreakLabel=00D9FF&sideLabels=00D9FF&currStreakNum=FFFFFF&dates=c9d1d9)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bibek-b&custom_title=Bibek's%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=7000FF&point=00D9FF&area_color=0D1117&area=true&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bibek-b&theme=tokyonight" />
 
 </div>
 
