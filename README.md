@@ -84,7 +84,7 @@ I'm a passionate **Software Developer** with a strong interest in **Cybersecurit
 
 <div align="center">
   
-### ⚡ *"Write code that humans can understand, and machines can execute securely."*
+### ⚡ *""Develop software so secure, even the bugs need authentication.""*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=bibek-b&color=blueviolet&style=for-the-badge)
 
