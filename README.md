@@ -1,22 +1,29 @@
-# Hey Man, I'm Bibek 👋
-
 <div align="center">
   
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there,%20I'm%20[Bibek%20Biswokarma]%20👋&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Software+Developer+%F0%9F%92%BB;Cybersecurity+Enthusiast+%F0%9F%94%90;Penetration+Testing+Learner+%F0%9F%94%A8;Building+Secure+%26+Scalable+Solutions)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:00D9FF,50:7000FF,100:0047AB&height=300&section=header&text=Bibek%20Bishwokarma&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20Security%20Enthusiast&descAlignY=55&descSize=25"/>
 
 <br/>
 
-### ⚡ *"Develop software so secure, even the bugs need authentication."*
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+%F0%9F%92%BB;Cybersecurity+Enthusiast+%F0%9F%94%90;Penetration+Testing+Learner+%F0%9F%94%A8;Building+Secure+%26+Scalable+Solutions+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### 💀 *"In code we trust, in security we must."* 💀
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bibek-bishwokarma-8b0577353/?originalSubdomain=np)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Bibek10)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.bibekbk.com.np)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.bibekbk.com.np)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bibek-b)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0047AB,50:7000FF,100:00D9FF&height=120&section=footer"/>
 
 </div>
 
@@ -64,10 +71,14 @@ I'm a passionate **Software Developer** with a strong interest in **Cybersecurit
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bibek-b&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bibek-b&layout=compact&theme=tokyonight&hide_border=true)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bibek-b&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7000FF&text_color=c9d1d9&ring_color=00D9FF" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bibek-b&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=7000FF&currStreakLabel=00D9FF" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibek-b&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=bibek-b&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=7000FF&point=00D9FF" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=bibek-b&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
 
 </div>
 
@@ -88,8 +99,20 @@ I'm a passionate **Software Developer** with a strong interest in **Cybersecurit
 
 ---
 
+## 🐍 Contribution Snake
+
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=bibek-b&color=blueviolet&style=for-the-badge)
+<img src="https://raw.githubusercontent.com/bibek-b/bibek-b/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 Let's Connect & Build Something Secure! 💻
+
+![Profile Views](https://komarev.com/ghpvc/?username=bibek-b&color=7000FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
