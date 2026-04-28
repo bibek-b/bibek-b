@@ -10,7 +10,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 💀 *"In code we trust, in security we must."* 💀
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -29,18 +29,6 @@
 
 ---
 
-## 🚀 About Me
-
-I'm a passionate **Software Developer** with a strong interest in **Cybersecurity**. I love building modern web applications while keeping security at the forefront of everything I create.
-
-- 🔭 Currently working on full-stack web applications
-- 🎯 Practicing penetration testing on **TryHackMe**
-- 🐧 Working with Linux systems and security tools
-- 🔍 Learning enumeration, brute force techniques, and ethical hacking
-- 💡 Interested in secure coding, web vulnerabilities, and application security
-- 🌱 Constantly expanding my knowledge in both development and cybersecurity
-
----
 
 ## 📊 GitHub Stats
 
