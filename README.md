@@ -42,32 +42,6 @@ I'm a passionate **Software Developer** with a strong interest in **Cybersecurit
 
 ---
 
-## 🛠️ Tech Stack
-
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-
-### Mobile
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-
-### Security & Systems
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Penetration Testing](https://img.shields.io/badge/Pentesting-FF6347?style=for-the-badge&logo=hackthebox&logoColor=white)
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -94,21 +68,6 @@ I'm a passionate **Software Developer** with a strong interest in **Cybersecurit
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bibek-b&theme=tokyonight" />
 
 </div>
-
----
-
-## 🔐 Security Focus
-
-**Application Security:**
-- 🛡️ Implementing secure authentication & authorization
-- 🔒 Following OWASP security guidelines
-- 🚨 Regular security audits and dependency updates
-
-**Penetration Testing:**
-- 🔍 Enumeration techniques (nmap, gobuster, enum4linux)
-- 🔨 Brute force attacks (hydra, john the ripper)
-- 🎓 Active learning on TryHackMe platform
-- 🐧 Linux command line and scripting
 
 ---
 
