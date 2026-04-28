@@ -1,13 +1,12 @@
 
 
 ## 📊 GitHub Stats
+ <div align="center">
 
-<!-- <div align="center">
-
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bibek-b&show_icons=true&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&count_private=true&include_all_commits=true" />
+<!-- <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bibek-b&show_icons=true&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&count_private=true&include_all_commits=true" /> -->
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibek-b&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9&langs_count=8" />
 
-</div> -->
+</div> 
 
 <div align="center">
   
@@ -15,11 +14,6 @@
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bibek-b&custom_title=Bibek's%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=7000FF&point=00D9FF&area_color=0D1117&area=true&hide_border=true" />
-
-</div>
 
 <div align="center">
 
