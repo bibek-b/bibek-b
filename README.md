@@ -15,17 +15,11 @@
 </div>
 
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bibek-b&theme=tokyonight" />
-
-</div>
-
 ---
 
 <div align="center">
 
-### 💻 Let's Connect & Build Something Secure! 💻
+### 💻 Let's Connect & Build Something Amazing! 💻
 
 ![Profile Views](https://komarev.com/ghpvc/?username=bibek-b&color=7000FF&style=for-the-badge&label=PROFILE+VIEWS)
 
