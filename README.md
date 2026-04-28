@@ -1,21 +1,5 @@
 <div align="center">
   
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:00D9FF,50:7000FF,100:0047AB&height=300&section=header&text=Bibek%20Bishwokarma&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20Security%20Enthusiast&descAlignY=55&descSize=25"/>
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+%F0%9F%92%BB;Cybersecurity+Enthusiast+%F0%9F%94%90;Penetration+Testing+Learner+%F0%9F%94%A8;Building+Secure+%26+Scalable+Solutions+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bibek-bishwokarma-8b0577353/?originalSubdomain=np)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Bibek10)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.bibekbk.com.np)
